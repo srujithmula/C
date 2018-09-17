@@ -1,2 +1,2 @@
 # C
-C language internals
+C language Insights
